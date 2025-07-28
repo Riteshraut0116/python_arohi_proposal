@@ -32,7 +32,10 @@ text_turtle.color("black")
 text_turtle.penup()
 text_turtle.hideturtle()
 text_turtle.goto(0, -50)
-text_turtle.write("I Love You Arohi", align="center", font=("Arial", 24, "normal"))
+text_turtle.write("I Love You Arohi!", align="center", font=("Arial", 24, "normal"))
+
+text_turtle.goto(0, -130)
+text_turtle.write("😘", align="center", font=("Arial", 48, "normal"))
 
 # Keep the window open
 turtle.done()
