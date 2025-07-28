@@ -6,7 +6,7 @@ A simple and sweet Python script that uses the `turtle` library to draw a heart 
 
 ## 🖼️ Final Output
 
-After running the script, a window will appear and you will see the drawing of Lord Krishna being created. Once the script is finished, your beautiful artwork is ready! 🎉
+After running the script, a window will appear and you will see a heart being drawn using Python Turtle graphics. Once the drawing is complete, a sweet message saying "I Love You Arohi! ❤️" will appear on the screen. 🎉
 
 ![Final Output](arohi_propose_files/pythonoutput.png)
 
