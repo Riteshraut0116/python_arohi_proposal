@@ -32,7 +32,7 @@ text_turtle.color("black")
 text_turtle.penup()
 text_turtle.hideturtle()
 text_turtle.goto(0, -50)
-text_turtle.write("I Love You Payal", align="center", font=("Arial", 24, "normal"))
+text_turtle.write("I Love You Arohi", align="center", font=("Arial", 24, "normal"))
 
 # Keep the window open
 turtle.done()
