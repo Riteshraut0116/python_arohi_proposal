@@ -64,6 +64,8 @@ The script operates as follows:
 **Ritesh Raut**  
 *Programmer Analyst, Cognizant*
 
+❤️ Code from the Heart — Say It with Python Turtle! 💌🐢
+
 ---
 
 ### 🌐 Connect with me:
